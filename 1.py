@@ -7,3 +7,5 @@ def Count_vowels(s):
     return c
 s="bhuvana"
 print(Count_vowels(s)) 
+
+hello
